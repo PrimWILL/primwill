@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PrimWILL/primwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="./header.png"/>
+I'm the student who wants to be a <b>Data Engineer</b>.  
+</br>
+You can call me <b>"Jiyun"</b>. You call also call me <b>"Willow"</b>, which is my English name.
+
+### About Me 
+* 🏫 I'm currently studying at Ajou University, in South Korea.
+* 👩‍💻 I'm currently learning Computer Science.
+* 💫 I'm interested in Spark, Hadoop, Kafka, Kubernetes, and Golang.
+* 📫 How to reach me: please write email to jiyoon0043@ajou.ac.kr
+* 📃 If you want to see my CV, you can see it in [here](https://magnificent-tarragon-491.notion.site/CV-67816f3e610247b0a7ba27b355d1d34f)  
