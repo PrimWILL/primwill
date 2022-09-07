@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="./header.png"/>
 I'm the student who wants to be a <b>Data Engineer</b>.  
 </br>
-You can call me <b>"Jiyun"</b>. You call also call me <b>"Willow"</b>, which is my English name.
+You can call me <b>"Jiyun"</b>. You can also call me <b>"Willow"</b>, which is my English name.
 
 ### About Me 
 * 🏫 I'm currently studying at Ajou University, in South Korea.
