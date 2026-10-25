@@ -13,13 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="./header.png"/>
-I'm the student who wants to be a <b>Data Engineer</b>.  
-</br>
-You can call me <b>"Jiyun"</b>. You can also call me <b>"Willow"</b>, which is my English name.
 
 ### About Me 
 * 🏫 I'm currently working at KakaoStyle, in South Korea.
-* 👩‍💻 I'm currently learning Computer Science.
 * 💫 I'm interested in Spark, Hadoop, Kafka, Kubernetes, and Golang.
 * 📫 How to reach me: please write email to willow.jiyun@gmail.com
 * 📃 If you want to see my CV, you can see it in [here](https://magnificent-tarragon-491.notion.site/CV-67816f3e610247b0a7ba27b355d1d34f)  
